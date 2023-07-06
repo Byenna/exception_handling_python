@@ -1,7 +1,7 @@
 # exception_handling_python
 Exercises to practice exception handling in Python
 
-Certainly! Here's a simple exercise to practice exception handling for beginners:
+Here's a simple exercise to practice exception handling for beginners:
 Write a program that asks the user to input two numbers and performs division on them. However, include exception handling to handle any potential errors that may occur during the division process. Specifically, handle the following exceptions:
 1. ZeroDivisionError: If the user enters 0 as the second number, display an error message saying "Error: Cannot divide by 0.".
 2. ValueError: If the user enters a non-numeric value as either the first or second number, display an error message saying "Error: Invalid input. Please enter numeric values."
